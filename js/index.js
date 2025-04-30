@@ -40,6 +40,6 @@ function limpiar() {
     document.getElementById("valorX2").value = ""
 }
 
-function alert(mesnsaje){
+function alerta(mesnsaje){
     
 }
